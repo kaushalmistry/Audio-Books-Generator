@@ -1,6 +1,6 @@
 # Audio-Books-Generator
 
-## What can it do
+## What it can do
 1. It can create an Audio Book of any pdf file that you want to listen.
 2. It can create it (Audio Book) in two voices i.e. Male and Female.
 3. You can select from where to where you want to listen i.e. You can select starting page and ending page from the book.
