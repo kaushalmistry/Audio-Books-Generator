@@ -18,9 +18,10 @@
 ## Look of the app
 
 
+![Application look](https://github.com/kaushalmistry/Audio-Books-Generator/blob/main/Images/Audio.PNG?raw=true)
 
-
-
+ All the options are easily understandable and easy to use. 
+ Hope you like it!
 
 
 ### Try it and comment your views on it. Thank you. :)
